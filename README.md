@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋 I'm [Alexandr](https://alexlenk.ru)
 
-<!--
-**alex-lenk/alex-lenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexandr. I'm a frontend developer.
+🛠 Frontend Architecture and 🚀 Web Components.
 
-Here are some ideas to get you started:
+[![](https://komarev.com/ghpvc/?username=alex-lenk&color=blue&label=Profile%20Views)](https://github.com/alex-lenk)
+[![](https://img.shields.io/github/followers/alex-lenk?label=GitHub%20Followers)](https://github.com/alex-lenk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### GitHub Stats
+
+![Alexandr Yank Github Stats](https://github-readme-stats.vercel.app/api?username=alex-lenk&theme=dark)
