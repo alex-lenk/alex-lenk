@@ -7,6 +7,8 @@ My name is Alexandr. I'm a frontend developer.
 [![](https://img.shields.io/github/followers/alex-lenk?label=GitHub%20Followers)](https://github.com/alex-lenk)
 
 
+<img data-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lenk&amp;layout=compact" alt="alex-lenk Most Used Languages" class="mw-100 shadow lazyloaded" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lenk&amp;layout=compact">
+
 
 ### GitHub Stats
 
